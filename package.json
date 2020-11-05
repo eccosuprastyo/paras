@@ -24,7 +24,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public --no-dll",
     "build-storybook": "build-storybook -s public --no-dll",
-    "build-webpack": "webpack"    
+    "build-webpack": "webpack"
   },
   "eslintConfig": {
     "extends": [
