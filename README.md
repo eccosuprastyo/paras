@@ -67,7 +67,7 @@ export default App;
 ## Contributors
 1. [Fandi AR](https://github.com/FandiAR)
 2. [Mario Raspiantoro](https://github.com/raspiantoro)
-
+3. [Eko Suprastio](https://github.com/eccosuprastyo)
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
